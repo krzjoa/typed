@@ -11,7 +11,7 @@
    data-name="Layer 1"
    viewBox="0 0 734.82001 848.51001"
    version="1.1"
-   sodipodi:docname="typed.svg"
+   sodipodi:docname="logo.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="734.82001"
    height="848.51001">
@@ -39,13 +39,13 @@
      inkscape:window-height="703"
      id="namedview125"
      showgrid="false"
-     inkscape:zoom="0.51367188"
-     inkscape:cx="109.58847"
-     inkscape:cy="813.39961"
+     inkscape:zoom="1.0554352"
+     inkscape:cx="470.85907"
+     inkscape:cy="699.70243"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="g1026" />
   <defs
      id="defs4">
     <style
@@ -167,21 +167,21 @@
            id="path84"
            inkscape:connector-curvature="0" />
       </g>
-      <flowRoot
+      <text
          xml:space="preserve"
-         id="flowRoot909"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:Metropolis;-inkscape-font-specification:'Metropolis Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-         inkscape:transform-center-x="3.8935361"
-         inkscape:transform-center-y="-15.574144"
-         transform="translate(-7.8770722,34.041825)"><flowRegion
-           id="flowRegion911"><rect
-             id="rect913"
-             width="352.36502"
-             height="116.80608"
-             x="192.73004"
-             y="205.673" /></flowRegion><flowPara
-           id="flowPara915"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">typed</flowPara></flowRoot>    </g>
+         x="363.04114"
+         y="317.14594"
+         id="text860"><tspan
+           sodipodi:role="line"
+           x="363.04114"
+           y="317.14594"
+           id="tspan858"><tspan
+             x="363.04114"
+             y="317.14594"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
+             id="tspan856">typed</tspan></tspan></text>
+    </g>
     <path
        style="fill:#db1f26"
        inkscape:connector-curvature="0"
