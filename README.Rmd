@@ -1,0 +1,42 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# typed <img src='man/figures/logo.svg' align="right" height="139" />
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+`typed` is an experimental R library, which introduces typed variables in R.
+
+## Installation
+
+You can install the released version of typed from from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("krzjoa/typed")
+```
+## Example
+
+
+
+```{r example, error=TRUE}
+library(typed)
+x <- 10
+x <- 2.5
+print(x)
+locked(z) <- 2
+z <- 5
+```
